@@ -1,0 +1,8 @@
+name: ProjectMagic
+version: 1.0
+author: MCMDEV
+main: me.MCMDEV.magic.Main
+
+commands:
+    setmana:
+    getmana:
